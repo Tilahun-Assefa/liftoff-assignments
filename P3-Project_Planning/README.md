@@ -10,10 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-1. [Translator Hub Home Page Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_home.png)
-2. [Translator Hub Translator Profile Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_profile.png)
-3. [Translator Hub Service Selection Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_register.png)
-4. [Translator Hub User Login Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_user.png)
+- [Translator Hub Home Page Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_home.png)
+- [Translator Hub User Login Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_register.png)
+- [Translator Hub Translator Profile Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_profile.png)
+- [Translator Hub Service Selection Wireframe](https://github.com/Tilahun-Assefa/liftoff-assignments/blob/master/P3-Project_Planning/wireframe_user.png)
 
 ### Project Tracker
 
