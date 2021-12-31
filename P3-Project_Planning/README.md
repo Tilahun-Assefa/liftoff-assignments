@@ -19,9 +19,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
-[Liftoff Projects mehemet-group Project tracking trello board](https://trello.com/b/sC5BujXl/liftoff-project-board)
-
-### Project Repo Link
+[Liftoff Projects mehemet-group Project tracking trello board](https://trello.com/b/gEUWROWM/lift0ff-mehemet-group-project-tracking)
 
 Include a link to your project on GitHub.
 
